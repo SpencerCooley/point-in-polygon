@@ -1,6 +1,6 @@
 {
     "name" : "point-in-polygon",
-    "description" : "",
+    "description" : "determine if a point is inside a polygon with a ray intersection counting algorithm",
     "version" : "0.0.0",
     "repository" : {
         "type" : "git",
