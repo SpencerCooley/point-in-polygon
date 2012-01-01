@@ -21,6 +21,12 @@ console.dir([
 ]);
 ```
 
+output:
+
+```
+[ true, false, true ]
+```
+
 methods
 =======
 
